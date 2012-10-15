@@ -1,0 +1,5 @@
+Started out as a project to create some helper methods for working with Chatter-based
+classes and functionality. 
+
+Only created one method right now, which is a method using "dynamic" Apex to add an
+EntitySubscription to the user populating a User lookup field in a record. 
